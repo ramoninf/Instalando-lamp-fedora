@@ -1,4 +1,4 @@
-#Para limpeza do sistema fedora
+#Para Lamp fedora
 #Autor:Ivens Ramon
 #sistemas Derivados rpm
 #Email:ivens-oliveira@hotmail.com
