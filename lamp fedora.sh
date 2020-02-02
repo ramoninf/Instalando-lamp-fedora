@@ -1,6 +1,6 @@
-#Para limpeza do sistema-derivados-debian
+#Para limpeza do sistema fedora
 #Autor:Ivens Ramon
-#sistemas Derivados Debian
+#sistemas Derivados rpm
 #Email:ivens-oliveira@hotmail.com
 #=================================================================================
 
